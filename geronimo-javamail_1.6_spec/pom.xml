@@ -34,7 +34,7 @@
     <artifactId>geronimo-javamail_1.6_spec</artifactId>
     <packaging>bundle</packaging>
     <name>Apache Geronimo JavaMail Spec 1.6</name>
-    <version>0.0.1-TT.M1-SNAPSHOT</version>
+    <version>0.0.1-TT.M1</version>
 
     <description>Javamail 1.6 API Specification</description>
 
